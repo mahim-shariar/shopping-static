@@ -1,0 +1,37 @@
+.border-style {
+  border-top: 2px dashed rgb(190, 190, 190);
+  border-bottom: 2px dashed rgb(190, 190, 190);
+  margin-top: 100px !important;
+}
+
+.spinner {
+  width: 70px !important;
+  height: 70px !important;
+  border-radius: 50%;
+  border: 5px solid rgba(0, 0, 0, 0.1);
+  
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+
+.card-img-overlay
+{
+   color: white;
+   top: auto;
+   bottom: 40px !important;
+}
+
+.ul-style
+{
+    list-style: none;
+    padding: 0px;
+    color: gray;
+
+}
+
+.ul-style li
+{
+    margin-top: 10px;
+}
